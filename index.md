@@ -5,7 +5,7 @@ This is some regular body text
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-[This is a link to outside.com] outside.com
+[This is a link to outside.com] (https://www.outside.com)
 
 ```javascript
 var myVAr= "hello world":
