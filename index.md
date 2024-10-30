@@ -10,3 +10,6 @@ This is some regular body text
 ```javascript
 var myVAr= "hello world":
 ```
+- [x] Turn on Git Hub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
